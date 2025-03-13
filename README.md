@@ -46,10 +46,9 @@ We select the model with the highest validation accuracy for the result of fine-
 Environment Setup: 
 ````
     1. Setup a Linux environment (not tested for Windows) with an Nvidia GPU containing at least 12GB of memory (less may work, but not tested).   
-    2. Download data from the link: https://pan.baidu.com/s/1_814GSOIjcnrADiEfClhoQ?pwd=2024 
-    3. Download the open-sourced code, dataset and models.
-    4. Create a virtual Python environment using the provided YAML configuration file on Github.
-    5. Activate the new virtual Python environment
+    2. Download the open-sourced code, dataset and models.
+    3. Create a virtual Python environment using the provided YAML configuration file on Github.
+    4. Activate the new virtual Python environment
 ````
 Parameters:
 
